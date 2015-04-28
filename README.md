@@ -10,3 +10,7 @@ Brief summary of the project goals.
 * list item 2
 
 ![Sony Logo](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/512px-Sony_logo.svg.png)
+
+## Section 3
+
+Include a closing note here.
